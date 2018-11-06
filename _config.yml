@@ -1,1 +1,13 @@
+lang: en-US
+title: My Awesome Site
+
 theme: jekyll-theme-cayman
+email: mmbondwana@gmail.com
+description:
+baseurl: /home
+url:
+  author:
+  name: Masande Mmbondwana
+  twitter: MasandeMbondwan
+  picture: https://api.adorable.io/avatars/285/johndoe.png
+logo: /assets/icons/basically-basic-logo-light.svg
